@@ -9,7 +9,7 @@ A simple and interactive To-Do List where you can add, mark as done ✅, and del
 🎨 Simple and clean UI
 🚀 Live Demo
 
-# Hosted Link - https://aryankinha.github.io/To-Do-List/
+Hosted Link - https://aryankinha.github.io/To-Do-List/
 
 🛠️ Tech Stack
 HTML
